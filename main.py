@@ -7,5 +7,8 @@ def main():
     Calls more specialized methods
     :rtype : object
     """
-    if __name__ == '__main__':
-        main()
+    return None
+
+
+if __name__ == '__main__':
+    main()
